@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bem vindos ao perfil! 👋
 
 
-**108705/108705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ me chamo ISABELLY✨ 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🔭 atualmente sou estudante do Alura.
+- 🌱 eu gostaria de compartilhar meus projetos.
+- 👯 tenho 17 anos.
+- 🤔 estou querendo me aprofundar mais nesse ramo.
+- 💬 Sou muito comunicativa.
+  
+  
 
